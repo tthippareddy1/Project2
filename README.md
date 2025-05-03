@@ -1,5 +1,10 @@
 # project2
 
+# Team
+# Tarunkumar Reddy Thippareddy (002854284) 
+# Siddhant Rai (002655331)
+
+
 
 # Stockly - Stock Tracking and Management App
 
