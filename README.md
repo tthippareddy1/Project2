@@ -32,7 +32,7 @@ To run **Stockly** locally, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/divya-jd/Stockly_Project2
+git clone https://github.com/tthippareddy1/Project2
 ```
 ### 2. Install Dependencies
 
