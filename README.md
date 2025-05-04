@@ -4,6 +4,8 @@
 # Tarunkumar Reddy Thippareddy (002854284) 
 # Siddhant Rai (002655331)
 
+**Track Stock Prices Worldwide**: https://youtu.be/CG1TLYL-pHw
+
 
 
 # Stockly - Stock Tracking and Management App
